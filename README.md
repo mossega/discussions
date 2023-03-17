@@ -1,4 +1,4 @@
-### Foros de mossega
+### Foro de Mossega
 El cometido de este repositorio es hospedar el [foro de Mossega](https://github.com/orgs/mossega/discussions). Nuestro objetivo es convertir dicho foro en un punto de encuentro para el networking y la colaboración entre miembros de la comunidad local.
 
 ### Código de conducta
